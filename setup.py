@@ -32,7 +32,7 @@ setup(
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     keywords='knet, payments, kuwait, fss',
-    name='pyipay',
+    name='fsspyipay',
     packages=find_packages(include=['pyipay']),
     url='https://github.com/burhan/pyipay',
     version='0.1.0',

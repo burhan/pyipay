@@ -3,7 +3,7 @@ FSS iPay Integration Kit (Python)
 =================================
 
 .. image:: https://img.shields.io/pypi/v/pyipay.svg
-        :target: https://pypi.python.org/pypi/pyipay
+        :target: https://pypi.python.org/pypi/fsspyipay
 
 .. image:: https://readthedocs.org/projects/pyipay/badge/?version=latest
         :target: https://pyipay.readthedocs.io/en/latest/?badge=latest
@@ -20,6 +20,7 @@ DISCLAIMER
 
 **This is an unofficial port and is not supported by FSS. Use at your own risk.**
 
+The package name is `fsspyipay` to avoid conflicts.
 
 Welcome
 -------
