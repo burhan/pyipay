@@ -1,7 +1,7 @@
-pyipay
-======
+fsspyipay
+=========
 
 .. toctree::
    :maxdepth: 4
 
-   pyipay
+   fsspyipay

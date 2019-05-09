@@ -66,9 +66,9 @@ coverage: ## check code coverage quickly with the default Python
 	$(BROWSER) htmlcov/index.html
 
 docs: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/pyipay.rst
+	rm -f docs/fsspyipay.rst
 	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ pyipay
+	sphinx-apidoc -o docs/ fsspyipay
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
 	$(BROWSER) docs/_build/html/index.html
