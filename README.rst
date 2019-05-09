@@ -5,13 +5,9 @@ FSS iPay Integration Kit (Python)
 .. image:: https://img.shields.io/pypi/v/pyipay.svg
         :target: https://pypi.python.org/pypi/pyipay
 
-.. image:: https://img.shields.io/travis/burhan/pyipay.svg
-        :target: https://travis-ci.org/burhan/pyipay
-
 .. image:: https://readthedocs.org/projects/pyipay/badge/?version=latest
         :target: https://pyipay.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
 
 .. image:: https://pyup.io/repos/github/burhan/pyipay/shield.svg
      :target: https://pyup.io/repos/github/burhan/pyipay/
