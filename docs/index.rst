@@ -1,5 +1,5 @@
-Welcome to pyipay's documentation!
-======================================
+Welcome to fsspyipay's documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2
