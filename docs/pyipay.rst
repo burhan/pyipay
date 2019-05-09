@@ -23,7 +23,6 @@ pyipay.util module
 
 .. automodule:: pyipay.util
     :members:
-    :undoc-members:
     :show-inheritance:
 
 
