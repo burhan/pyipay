@@ -2,7 +2,7 @@
 FSS iPay Integration Kit (Python)
 =================================
 
-.. image:: https://img.shields.io/pypi/v/pyipay.svg
+.. image:: https://img.shields.io/pypi/v/fsspyipay.svg
         :target: https://pypi.python.org/pypi/fsspyipay
 
 .. image:: https://readthedocs.org/projects/pyipay/badge/?version=latest
@@ -13,6 +13,7 @@ FSS iPay Integration Kit (Python)
      :target: https://pyup.io/repos/github/burhan/pyipay/
      :alt: Updates
 
+.. image:: https://img.shields.io/pypi/pyversions/fsspyipay.svg
 
 ==========
 DISCLAIMER
@@ -32,8 +33,9 @@ An interface for the FSS iPay terminal integration. This is the successor to the
 
 Requirements
 ------------
-* Python 3. Python 2 is **not supported**.
+* Python 3.6 at minimum. Python 3.7 recommended. Python 2 is **not supported**.
 * You must already have the integration kit. The kit includes `resource.cgn`, `keystore.bin` and the alias.
+
 
 Notes
 -----
