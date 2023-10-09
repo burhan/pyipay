@@ -93,6 +93,8 @@ class Gateway:
         if tracking_id is None:
             now = int(time.time())
             self.tracking_id = f"{now}"
+        else:
+            self.tracking_id = str(tracking_id);
 
         # Setting these as private, since we will manipulate the values
         # and sanitize them before setting the final value
