@@ -9,5 +9,4 @@ Development Lead
 
 Contributors
 ------------
-
-None yet. Why not be the first?
+* Aqib Yaseen <aqibyaseenbhat@gmail.com>
