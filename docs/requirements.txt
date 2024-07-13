@@ -1,3 +1,4 @@
 iso4217==1.11.20220401
 pyDes==2.0.1
 pyjks==20.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
